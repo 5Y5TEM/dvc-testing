@@ -1,0 +1,4 @@
+outs:
+- md5: dcb9d684eebd2ce0482024b544cb1f86
+  size: 575532170
+  path: era5-glofas-merged.pkl
