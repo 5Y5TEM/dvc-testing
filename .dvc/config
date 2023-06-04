@@ -1,7 +1,0 @@
-[core]
-    remote = ibm-cos
-['remote "ibm-cos"']
-    url = s3://mlops-sustainability-data/
-    endpointurl = https://s3.eu-de.cloud-object-storage.appdomain.cloud
-    access_key_id = d9e9ebdda90b4a2f916e350c840c5b44
-    secret_access_key = 338ea829c19f70fa1d3095201ccb6eb8e67e261390aacceb
